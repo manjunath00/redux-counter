@@ -1,4 +1,4 @@
-# counter app using react-redux
+# Counter app using react-redux
 
 A counter app using redux
 
